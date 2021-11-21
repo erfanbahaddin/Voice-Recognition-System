@@ -1,6 +1,6 @@
 # Voice-Recognition-System
 
-This program is supposed to run on ubunto.
+This program is supposed to run on Ubunto.
 
 In order to run the program, open terminal in ubunto and go to the project folder where the files are stored, then type these words:
 * gcc Record.c libportaudio.a –lm –lrt –lasound –pthread –o FileName.out
